@@ -99,6 +99,6 @@ class RtpPacket:
 x=func()
 print(x)
 obj = RtpPacket()
-RtpPacket.encode(2,0,0,0,0,0,26,0,x)
+# RtpPacket.encode(2,0,0,0,0,0,26,0,x)
 
 
